@@ -1,2 +1,2 @@
 # Todo-rumannisar
-React todo learning project
+React todo project
